@@ -1,5 +1,4 @@
-# DevOps + AIOps Series
-
+# DevOps + AIOps 
 > A full end-to-end DevOps project with AIOps integration that can connect the dots between how AI is helping automate DevOps tasks today.
 
 ---
