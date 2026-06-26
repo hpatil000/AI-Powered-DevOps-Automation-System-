@@ -1,13 +1,4 @@
-# DevOps + AIOps 
-> A full end-to-end DevOps project with AIOps integration that can connect the dots between how AI is helping automate DevOps tasks today.
-
----
-
-## Welcome
-
-Hey everyone!
-
-Welcome to my DevOps + AI project where we build an end-to-end DevOps project with an AIOps integration.
+# DevOps + AIOps
 
 In this project we will:
 
@@ -42,10 +33,8 @@ DevOps-Practice-Guide/
 
 ---
 
-## Series Structure
-
 ### Claude Setup — AI Assistant Configuration
-[`docs/claude-setup.md`](docs/claude-setup.md)
+
 
 this step walks through how Claude Code is configured as the AI assistant throughout this series.
 
@@ -68,7 +57,6 @@ Three things are set up:
 
 
 ### Part 2 — Understanding the Workflow
-[`docs/part2-workflow.md`](docs/part2-workflow.md)
 
 Before writing any code or deployment configs, you need to understand how the entire system flows:
 
@@ -81,7 +69,6 @@ This is where the full picture comes together — including how AI fits into the
 ---
 
 ### Part 3 — DevOps Project Implementation
-[`projects/README.md`](projects/README.md)
 
 Then we actually build the project
 
@@ -95,7 +82,6 @@ Then we actually build the project
 ---
 
 ### Part 4 — AIOps Integration
-[`projects/aiops-assistant/README.md`](projects/aiops-assistant/README.md)
 
 Finally, we explore how AI helps with:
 
