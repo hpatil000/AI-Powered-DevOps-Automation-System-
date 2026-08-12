@@ -1,7 +1,5 @@
 #AI-Powered DevOps Automation System 
 
-In this project we will:
-
 - Build microservices locally
 - Use Claude and AI tools to assist development
 - Deploy everything step by step
